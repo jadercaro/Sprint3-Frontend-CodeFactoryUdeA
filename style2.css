@@ -1,0 +1,88 @@
+header{
+    position: absolute;
+    width: 1440px;
+    height: 65px;
+    top: 0px;
+    left: 0px;
+    background: #33691E;
+    }
+    
+    .contenedor{
+    position: absolute;
+    width: 1440px;
+    height: 735px;
+    top: 65px;
+    left: 0px;
+    background: linear-gradient(50deg, #33691E 0%, #E4E4D9 51.04%);
+    }
+    
+.title{
+    position: absolute;
+    width: 820px;
+    height: 83px;
+    top: 131px;
+    left: 347px;
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 400px;
+    font-size: 36px;
+    line-height: 44px 100%;
+    color:#524D4D;
+    text-shadow:0 0 1px #000000;  
+    }
+    
+.logo{
+    position: absolute;
+    width: 121px;
+    height: 133px;
+    top: 85px;
+    left: 1268px;
+
+
+}
+
+.texto-cuerpo{
+    position: absolute;
+    width: 700px;
+    height: 83px;
+    left: 320px;
+    top: 320px;
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: bold;
+    font-size: 24px;
+    line-height: 29px;
+    text-align: center;
+    color: #33691E;
+}
+
+.principal-button{
+    position: absolute;
+    width: 390px;
+    height: 50px;
+    left: 441px;
+    top: 470px;
+    background: linear-gradient(90deg, #03A200 0%, #47C03E 99.99%, #F2F2EC 100%);
+}
+.texto-boton{
+    position: absolute;
+    width: 385px;
+    height: 41px;
+    left: calc(50% - 385px/2 + 69.5px);
+    top: -18px;
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 20px;
+    line-height: 24px;
+    display: flex;
+    align-items: center;
+    color: #FFFFFF;
+}
+.logo-inferior2{
+    position: absolute;
+    width: 200px;
+    height: 40px;
+    left: 1200px;
+    top: 650px;
+}
